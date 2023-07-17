@@ -5,8 +5,6 @@
 - 🔭 I’m currently working on [Burger Queen Project] (https://github.com/alerileri/burger-queen-api-mock)
 - 🌱 I’m currently learning React
 - 📫 How to reach me: ale.ortmed@gmail.com
-- ⚡ Fun fact: ...
-
 
 
 ## 🌐 Socials:
